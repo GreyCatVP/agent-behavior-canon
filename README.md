@@ -21,3 +21,6 @@ Designed to be **enforceable**, not inspirational.
 **Scope:** Engineering, research, internal standards
 
 Not affiliated with any AI vendor.
+
+This canon applies to LLM agents embedded in tools and systems
+that can modify persistent artifacts (e.g. codebases, datasets, documents).
